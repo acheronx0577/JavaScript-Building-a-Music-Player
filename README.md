@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Player Preview
 
-![Music Player Screenshot](https://via.placeholder.com/1617x366/4d4d62/ffffff?text=Music+Player+Screenshot)
+<img width="566" height="869" alt="image" src="https://github.com/user-attachments/assets/8d063eb4-d499-4326-9668-1b0b25c576c5" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Music-Player
 
@@ -66,15 +66,15 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Music-Player
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Rock-Paper-Scissors-Game.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Music-Player.git
 ```
 
 ### 2️⃣ Open the project folder
 ```
-cd JavaScript-Building-a-Rock-Paper-Scissors-Game
+cd JavaScript-Building-a-Music-Player
 ```
 
-### 3️⃣ Run the game
+### 3️⃣ Run the file
 Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
