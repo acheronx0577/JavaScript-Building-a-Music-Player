@@ -52,6 +52,22 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Music-Player
 
 ---
 
+## 🎮 How to Use
+
+### Basic Controls:
+- **▶️ Play/Pause**: Click the play button or press Spacebar
+- **⏭️ Next Song**: Click next button or press Right Arrow
+- **⏮️ Previous Song**: Click previous button or press Left Arrow
+- **🔀 Shuffle**: Randomize playlist order
+- **🔍 Search**: Type in search box to filter songs
+
+### Playlist Actions:
+- **Click any song** in the playlist to play it immediately
+- **🗑️ Delete songs** using the delete button next to each track
+- **Reset playlist** when empty to restore all songs
+
+---
+
 ## 🧩 Project Files
 
 | File | Description |
@@ -79,33 +95,6 @@ Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
-## 🎮 How to Use
-
-### Basic Controls:
-- **▶️ Play/Pause**: Click the play button or press Spacebar
-- **⏭️ Next Song**: Click next button or press Right Arrow
-- **⏮️ Previous Song**: Click previous button or press Left Arrow
-- **🔀 Shuffle**: Randomize playlist order
-- **🔍 Search**: Type in search box to filter songs
-
-### Playlist Actions:
-- **Click any song** in the playlist to play it immediately
-- **🗑️ Delete songs** using the delete button next to each track
-- **Reset playlist** when empty to restore all songs
-
----
-
-## 🛠️ Technical Features
-
-- **Audio API Integration** for seamless playback
-- **Local State Management** for playlist and playback data
-- **DOM Manipulation** for dynamic UI updates
-- **Event Handling** for user interactions
-- **CSS Grid & Flexbox** for responsive layouts
-- **Custom Progress Bar** with click-to-seek functionality
-
----
-
 ## 🎵 Song Library
 
 The player comes with 10 original tracks by Quincy Larson:
@@ -119,18 +108,6 @@ The player comes with 10 original tracks by Quincy Larson:
 - "Can't Stop Me. Can't Even Slow Me Down." (3:52)
 - "The Surest Way Out is Through" (3:10)
 - "Chasing That Feeling" (2:43)
-
----
-
-## 💡 Learning Objectives
-
-This project demonstrates:
-- **Advanced JavaScript** (ES6+ features, array methods, async operations)
-- **Audio Web API** integration and manipulation
-- **Complex State Management** without external libraries
-- **Responsive CSS Design** with CSS variables and media queries
-- **Event-Driven Programming** with multiple interaction types
-- **Dynamic DOM Updates** and real-time UI synchronization
 
 ---
 
@@ -161,16 +138,4 @@ This project is open-source under the **MIT License**.
 ---
 
 ⭐ **If you enjoy this music player, don't forget to give it a star!** ⭐
-
----
-
-## 🔗 Related Projects
-
-Check out my other freeCodeCamp certification projects:
-- [🌵 Pyramid Generator](https://github.com/acheronx0577/JavaScript-Building-a-Pyramid-Generator)
-- [🎮 Rock Paper Scissors](https://github.com/acheronx0577/JavaScript-Building-a-Rock-Paper-Scissors-Game)
-- [🏆 Full Certification Portfolio](https://github.com/acheronx0577/JavaScript-Algorithms-and-data-structures)
-
----
-
 *Happy listening! 🎧*
