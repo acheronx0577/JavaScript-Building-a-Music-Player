@@ -68,16 +68,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Music-Player
 
 ---
 
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Player layout and structure |
-| `script.js` | Music player logic and audio controls ⚙️ |
-| `styles.css` | Modern styling and responsive design 🎨 |
-
----
-
 ## 🧰 Installation & Usage
 
 ### 1️⃣ Clone this repo
