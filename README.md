@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Player Preview
 
-<img width="566" height="869" alt="image" src="https://github.com/user-attachments/assets/8d063eb4-d499-4326-9668-1b0b25c576c5" />
+<img width="1096" height="1234" alt="Screenshot 2025-11-05 151459" src="https://github.com/user-attachments/assets/27f43ec9-9909-4736-83fc-5a8d821ec616" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Music-Player
 
